@@ -1,0 +1,8 @@
+C:\Users\Bers\IdeaProjects\notification-service\src\main\java\com\example\notificationservice\config\KafkaConfig.java
+C:\Users\Bers\IdeaProjects\notification-service\src\main\java\com\example\notificationservice\consumer\UserEventsConsumer.java
+C:\Users\Bers\IdeaProjects\notification-service\src\main\java\com\example\notificationservice\controller\NotificationController.java
+C:\Users\Bers\IdeaProjects\notification-service\src\main\java\com\example\notificationservice\dto\EmailRequest.java
+C:\Users\Bers\IdeaProjects\notification-service\src\main\java\com\example\notificationservice\event\UserEvent.java
+C:\Users\Bers\IdeaProjects\notification-service\src\main\java\com\example\notificationservice\event\UserEventType.java
+C:\Users\Bers\IdeaProjects\notification-service\src\main\java\com\example\notificationservice\NotificationServiceApplication.java
+C:\Users\Bers\IdeaProjects\notification-service\src\main\java\com\example\notificationservice\service\NotificationService.java
